@@ -1,0 +1,1 @@
+This repository contains code and datasets to support various data analysis projects. It is intended solely for practice and learning purposes, helping users understand and implement techniques for data cleaning, visualization and statistical.
